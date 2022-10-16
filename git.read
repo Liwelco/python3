@@ -34,3 +34,4 @@ git branch
 git checkout main
 git checkout branch01
 git push origin branch01
+git pull origin branch01
